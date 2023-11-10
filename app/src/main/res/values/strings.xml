@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BraveUI</string>
+    <string name="disable_brave_vpn">Disable Brave VPN</string>
+    <string name="pause_for_15_minutes">Pause for 15 minutes</string>
+    <string name="pause_for_1_hour">Pause for 1 hour</string>
+    <string name="disable">Disable</string>
 </resources>
